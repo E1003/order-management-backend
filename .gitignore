@@ -1,0 +1,16 @@
+.idea/
+venv/
+.venv/
+env/
+common/static/common/cs/table/*.js*
+.sass-cache/
+common/static/common/css/
+db.sqlite3
+media/health_card/
+media/*.png
+media/*
+*.log
+.coverage
+htmlcov/
+.env
+.coveragerc
